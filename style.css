@@ -1,0 +1,27 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.card {
+  width: 350px;
+  height: 500px;
+  border-radius: 10px;
+  background-color: rgb(230, 239, 60);
+  padding: 40px 20px 0px 20px;
+}
+
+.name {
+  display: flex;
+  align-items: end;
+  margin-bottom: 50px;
+}
+
+.name h1 {
+  margin: 0;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
